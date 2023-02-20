@@ -1,2 +1,2 @@
 # prometheus
-Users profiles server
+User profile server
